@@ -21,6 +21,8 @@ Power BI, MYSQL
 
  [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODQ1OThjNjQtMDlmYy00YmRhLWJiNmEtZDM5YjQ3M2IxMTI2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=d28e2edb364d779da234)
 
+ [Project Details](https://codebasics.io/challenge/codebasics-resume-project-challenge)
+
 ## Metrics I learnt
 
 1. Total content items 
