@@ -19,5 +19,9 @@ Power BI, MYSQL
 
 ## Important Links
 
- https://app.powerbi.com/view?r=eyJrIjoiODQ1OThjNjQtMDlmYy00YmRhLWJiNmEtZDM5YjQ3M2IxMTI2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=d28e2edb364d779da234
+ [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODQ1OThjNjQtMDlmYy00YmRhLWJiNmEtZDM5YjQ3M2IxMTI2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=d28e2edb364d779da234)
+
+ ## Home Page
+
+ 
 
