@@ -42,6 +42,10 @@ Power BI, MYSQL
 15. Monthly users Growth Rate (%) 
 16. Upgrade / Downgrade Rate (%) 
 
+## Challenges I Faced 
+
+👉 I faced challenges for Revenue Analysis because the plan end date column in the data set is not available for both the new plan and the old plan.
+
 ## Some Important Insights For LioCinema 
 
 👉 Total Number of users for Liocinema is 183K.
